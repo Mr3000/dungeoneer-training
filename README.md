@@ -1,10 +1,10 @@
-# Dungoneer-Training
-Before getting started, please message me on Discord (Yume#7302) to gain contribution access for the sake of doing work here.
-To anyone who has access, please make sure you've selected the correct branch to be working from. If you have any questions, feel free to message me or any of the staff/partner devs for assistance.
+# 100 Club Dungeon
+This branch is for use in constructing a 100 floor dungeon for the sake of testing multiple types of scripts and experimenting with as many different features as possible. This will mainly be used to showing progress and improvements over time.
 
-To those interested in this project, you'll want to have the following:
-1. Notepad++ or an equivilant organized txt document program
-2. The base server files: https://mega.nz/#!IR9ngIbQ!mkDqoYmV5eKSYKemTwnZx1wwwxbJhIBC7Nalc-6AF24 (or a fork made from the repository on this page, to keep from editing the same files everyone starts off from)
-3. Optional: mabiunpack.exe tool (related to getting additional files, recommended if you're working with items and additional scripts)
+Starting from Alby's beginner dungeon, the goal is to create a progressive challenge dungeon that spans all current Mabinogi dungeons and eventually surpasses them. Test the bounds and try as many new things as possible or use whats done for reference to create something new!
 
-Once you have the necessary files, please refer to the wiki present in this github to get an understanding of how dungeons in mabinogi work for the sake of this project.
+Its advised to construct floors in sequences of 5 or 10, making each floor more difficult than the last by adding new mobs or unique gimmicks that make things more interesting.
+
+Please be sure to inform me whenever changes are ready to be committed so we can avoid merge conflicts. This entire project is also voluntary but recommended for anyone who hasn't worked heavily on dungeons before.
+
+If at any point anyone wants to work on their own projects, then they are free to. As a rule, please do not copy anyone else's work from this branch for your own without their permission.
